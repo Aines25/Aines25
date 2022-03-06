@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Christian
-- 👀 Front end web developer based in the UK.
+Hi All 👋, I’m Christian - Front End Developer :man_technologist: :round_pushpin:	 based in the London / Crewe in the UK.
+
 - 💞️ I’m loving coding but trying to find a balance between learning, coding and my current career.
 - 📫 Reach me over on linkedIn https://www.linkedin.com/in/christian-smith-a63093109 or my website www.christiancodes.co.uk
 
