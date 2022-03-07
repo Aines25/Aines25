@@ -5,7 +5,7 @@ Hi All 👋, I’m Christian - A Front End Web Developer :round_pushpin: Current
 :memo: 
 Having spent my entire adult life within professional sports & fitness industrys, In 2021 I taught myself to code. :man_technologist: 
 
-Despite the challenge of balancing my current career & teaching myself to code, I am capable of using HTML, CSS / Bootstrap & Javascript to create mobile responsive projects. :nerd_face::iphone:
+Despite the challenge of balancing my current career & teaching myself to code, I am capable of using HTML, CSS / Bootstrap & Javascript (currently learning react) to create mobile responsive projects. :nerd_face::iphone:
 
 When I'm not coding you can usually find me:
 
