@@ -1,9 +1,17 @@
+:man_technologist: Christian Codes - www.christiancodes.co.uk :computer:	
+
 Hi All 👋, I’m Christian - A Front End Web Developer :round_pushpin: Currently based in London / Crewe, UK.
 
-Having spent my entire adult life within professional sports & fitness industrys, In 2021 I taught myself to code. :man_technologist:
+:memo: 
+Having spent my entire adult life within professional sports & fitness industrys, In 2021 I taught myself to code. :man_technologist: 
+
+Despite the challenge of balancing my current career & teaching myself to code, I am capable of using HTML, CSS / Bootstrap & Javascript to create mobile responsive projects. :nerd_face::iphone:
+
+When I'm not coding you can usually find me:
 
 
-- 💞️ I’m loving coding but trying to find a balance between learning, coding and my current career.
+
+
 - 📫 Reach me over on linkedIn https://www.linkedin.com/in/christian-smith-a63093109 or my website www.christiancodes.co.uk
 
 <!---
