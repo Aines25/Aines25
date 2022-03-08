@@ -13,7 +13,7 @@ When I'm not coding you can usually find me:
 - :dog:	Walking my Dog Bernie.
 - :video_game:	Playing video games with friends (and usually winning).
 - :movie_camera: Catching up on my forever growing list of recorded tv programmes.
-- :biking_man:	Out with friends clocking up some serious mileage on our bikes, London to Paris is next on our list of adventures. :hourglass:	
+- :biking_man:	Out with friends clocking up some serious mileage on our road bikes, London to Paris is next on our list of adventures. :hourglass:	
 
 :link: Let's Connect:
 
