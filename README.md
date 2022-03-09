@@ -19,7 +19,7 @@ When I'm not coding you can usually find me:
 
 - 📫 Reach me over on LinkedIn https://www.linkedin.com/in/christian-smith-a63093109 
 - :desktop_computer:	My website www.christiancodes.co.uk
-- :e-mail: Via E-mail @ smithchristian4@hotmail.com
+- :e-mail: Via E-mail @ smithchristian4@hotmail.com ..
 
 <!---
 Aines25/Aines25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
