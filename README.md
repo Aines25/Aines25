@@ -21,6 +21,9 @@ When I'm not coding you can usually find me:
 - :desktop_computer:	My website www.christiancodes.co.uk
 - :e-mail: Via E-mail @ smithchristian4@hotmail.com
 
+Look forward to hearing from you. 
+
+
 <!---
 Aines25/Aines25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
