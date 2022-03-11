@@ -21,7 +21,7 @@ When I'm not coding you can usually find me:
 - :desktop_computer:	My website www.christiancodes.co.uk
 - :e-mail: Via E-mail @ smithchristian4@hotmail.com
 
-Thanks for stopping visiting. 
+Thanks for visiting. 
 
 Christian.
 
