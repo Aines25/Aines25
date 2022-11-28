@@ -5,7 +5,7 @@ Hi All 👋, I’m Christian - A Front End Web Developer :round_pushpin: Based i
 :memo: 
 Having spent my entire adult life within professional sports & fitness industrys, In 2021 I taught myself to code. :man_technologist: 
 
-I have experience working within the development industry using HTML, CSS, Javascript, Github, PHP, Bootstrap & Tailwind CSS to create pixel perfect mobile responsive designs from design files using Sketch, Adobe XD & Figma. :nerd_face::iphone:
+I have experience working within the development industry using HTML, CSS, Javascript, Github, PHP, Bootstrap & Tailwind CSS to create pixel perfect mobile responsive designs from design files such as - Sketch, Adobe XD & Figma. :nerd_face::iphone:
 
 When I'm not coding you can usually find me:
 
