@@ -1,6 +1,6 @@
 :man_technologist: Christian Codes - www.christiancodes.co.uk :computer:	
 
-Hi All 👋, I’m Christian - A Front End Web Developer :round_pushpin: Based in the North West of England, UK.
+Hi All 👋, I’m Christian - Web Developer :round_pushpin: Based in the North West of England, UK.
 
 :memo: 
 Having spent my entire adult life within professional sports & fitness industrys, In 2021 I taught myself to code. :man_technologist: 
