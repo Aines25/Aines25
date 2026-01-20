@@ -18,7 +18,6 @@ When I'm not coding you can usually find me:
 :link: Let's Connect:
 
 - 📫 Reach me over on LinkedIn https://www.linkedin.com/in/christian-smith-a63093109 
-- :desktop_computer:	My website www.christiancodes.co.uk
 - :e-mail: Via E-mail @ smithchristian4@hotmail.com
 
 Thanks for visiting. 
